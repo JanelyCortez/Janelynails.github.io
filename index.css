@@ -1,0 +1,60 @@
+body {
+    font-family: 'Arial', sans-serif; 
+    background-image: url(/image/golden-black-premium-background-free-vector.jpg);
+}
+.navbar {
+    background-color: #ff6f9c;
+}
+.navbar-brand {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: white;
+}
+.navbar-brand span {
+    color: #fff1e6;
+}
+.banner {
+    background-image: url('banner.jpg'); /* Aquí podrías colocar una imagen de fondo */
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner h1 {
+    font-size: 3.5em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.services {
+    margin: 50px 0;
+}
+.services h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2.5em;
+    color: #ff6f9c;
+}
+.service-item {
+    margin-bottom: 30px;
+}
+.service-item img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+.service-item h3 {
+    margin-top: 15px;
+    font-size: 1.8em;
+}
+.contact {
+    background-color: #ff6f9c;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+}
+.contact h2 {
+    margin-bottom: 30px;
+    font-size: 2.5em;
+}
